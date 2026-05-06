@@ -1,16 +1,90 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dinuka</h1>
 
-<!--
-**Dinukashamithakodagoda/Dinukashamithakodagoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN+%2B+Python);Building+Real-World+Projects;Learning+Machine+Learning;Future+Software+Engineer+🚀" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 👋 Hi there, I'm Dinuka!
+
+💻 **Full Stack Developer (MERN + Python)**
+🚀 Passionate about building real-world web applications
+🎯 Currently preparing for my internship & improving my skills
+
+---
+
+## 🧑‍💻 About Me
+
+* 🌱 Learning **MongoDB, Express.js, React.js, Node.js**
+* 🐍 Working with **Python (Backend + Machine Learning Basics)**
+* 🔨 Building **E-Commerce & Management Systems**
+* 🤖 Exploring **Machine Learning Integration**
+* 🎯 Goal: Become a **professional full-stack developer**
+
+---
+
+## 🚀 Tech Stack
+
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge\&logo=css3)
+
+### 🛠 Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python)
+
+### 🗄 Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge\&logo=mongodb)
+
+### 🤖 Machine Learning (Basics)
+
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge\&logo=pandas)
+
+---
+
+## 📌 Featured Projects
+
+🚀 **Smart E-Commerce Platform**
+
+* Full stack MERN project
+* Admin dashboard + payment integration
+* Modern UI/UX
+
+🏨 **Smart Hostel Management System**
+
+* Room allocation & complaint system
+* Inventory + maintenance module
+
+🤖 **ML Integration Projects (Python)** *(Coming Soon)*
+
+* Recommendation systems
+* Data analysis features
+
+---
+
+## 📊 GitHub Stats
+
+![Dinuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌍 Connect With Me
+
+* 💼 LinkedIn: (Add your link)
+* 📧 Email: (Add your email)
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy combining **web development + AI** to build smart applications 🚀
