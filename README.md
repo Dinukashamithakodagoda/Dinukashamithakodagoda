@@ -65,13 +65,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Dinuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinuka Kodagoda\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinuka Kodagoda\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🌍 Connect With Me
 
