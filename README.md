@@ -43,12 +43,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge\&logo=mongodb)
 
-### 🤖 Machine Learning (Basics)
 
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge\&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge\&logo=pandas)
-
----
 
 ## 📌 Featured Projects
 
@@ -72,9 +67,9 @@
 
 ## 📊 GitHub Stats
 
-![Dinuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinukashamithakodagoda\&show_icons=true\&theme=tokyonight)
+![Dinuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinuka Kodagoda\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinukashamithakodagoda\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinuka Kodagoda\&layout=compact\&theme=tokyonight)
 
 ---
 
