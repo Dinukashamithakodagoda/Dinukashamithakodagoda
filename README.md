@@ -80,8 +80,8 @@
 
 ## 🌍 Connect With Me
 
-* 💼 LinkedIn: (Add your link)
-* 📧 Email: (Add your email)
+* 💼 LinkedIn: https://www.linkedin.com/in/dinuka-kodagoda-8412662aa?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* 📧 Email: dinukakodagoda995@gmail.com
 
 ---
 
